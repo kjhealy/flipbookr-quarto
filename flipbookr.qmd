@@ -49,13 +49,16 @@ The first two packages are just for data and code used on these slides; they are
 
 ## Main changes
 
-- `chunk_reveal()` takes up to three new arguments. These are:
+- `chunk_reveal()` can take several new arguments. These are:
 - `platform = c("xaringan", "quarto")`
   - Defaults to `xaringan`, so older code/docs should work unchanged.
 - `lcolw` and `rcolw`: left and right column widths 
   - Given as characters, e.g. `"40"` and interpreted as percentages. Defaults to "40" left and "60" right
   - These are needed because Quarto handles column markup differently from Xaringan,
   - These arguments do nothing in the `xargingan` case
+- `smallcode` Logical, defaults to `FALSE`. 
+  - If `TRUE` then inserts a `.smallcode` class name in outputted code blocks.
+  - No CSS is added in the package right now. Your theme or your `custom.scss` file needs to define a behavior (e.g. `font-size: 0.75em`) for this class for it to have any effect.
   
 ## Use
 
