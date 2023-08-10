@@ -243,7 +243,7 @@ Using `break_type` to show multiple realizations
 
 ## Summary
 
-- For now the forked `{{flipbookr}}` repo is at <https://github.com/kjhealy/flipbookr>
+- For now the forked `{{flipbookr}}` repo is at <https://github.com/kjhealy/flipbookr> with changes on the `quarto` branch
 
 - The repo for these slides can be found at <https://github.com/kjhealy/flipbookr-quarto>
 
