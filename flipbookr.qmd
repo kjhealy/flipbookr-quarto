@@ -21,7 +21,7 @@ format:
 
 
 
-# Install {.smaller}
+# Install 
 
 - My fork is here: <https://github.com/kjhealy/flipbookr>
 
@@ -77,7 +77,7 @@ The first two packages are just for data and code used on these slides; they are
 - `#ROTATE`
 - Use of multiple realizations
 
-## Runthrough
+## Flipbookr Runthrough
 
 We're going to run this code: 
 
