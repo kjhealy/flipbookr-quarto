@@ -247,4 +247,4 @@ Using `break_type` to show multiple realizations
 
 - The repo for these slides can be found at <https://github.com/kjhealy/flipbookr-quarto>
 
-- 
+- View these slides directly at <https://kjhealy.github.io/flipbookr-quarto>
